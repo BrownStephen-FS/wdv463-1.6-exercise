@@ -1,0 +1,22 @@
+{
+  "name": "1.6-exercise",
+  "version": "1.0.0",
+  "description": "Static Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrownStephen-FS/wdv463-1.6-exercise.git"
+  },
+  "author": "Stephen Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrownStephen-FS/wdv463-1.6-exercise/issues"
+  },
+  "homepage": "https://github.com/BrownStephen-FS/wdv463-1.6-exercise#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
